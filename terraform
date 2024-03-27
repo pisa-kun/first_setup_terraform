@@ -1,0 +1,3 @@
+aws_shared_credentials_files = "[$HOME/.aws/credentials]"
+aws_profile  = "terraform"
+aws_region  = "ap-northeast-1"
